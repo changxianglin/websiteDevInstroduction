@@ -25,3 +25,4 @@ Mac
 ### Web Browser
 ### Web File Types
 ### HTTP(Hyper Text Transfer Protocol)
+### Domain Name Resolution(Domain Name - Ip Address)
