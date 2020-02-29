@@ -20,3 +20,8 @@ Linux
 Mac
   pbcopy < ~/.ssh/id_rsa.pub
 ```
+### Web Page Files(HTML、CSS、JavaScript、img、video)
+### Server(HTML、CSS、JavaScript、img、video)
+### Web Browser
+### Web File Types
+### HTTP(Hyper Text Transfer Protocol)
